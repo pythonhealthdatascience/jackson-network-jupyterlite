@@ -1,0 +1,5 @@
+,Node_1,Node_2,Node_3,servers,service_rate
+Node_1,0,0.1,0.4,1,10
+Node_2,0.6,0,0.4,2,10
+Node_3,0.3,0.3,0,1,10
+External_arrivals,1,4,3,,
