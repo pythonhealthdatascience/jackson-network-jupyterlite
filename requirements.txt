@@ -47,3 +47,5 @@ seaborn
 
 # scipy 
 scipy
+
+pyarrow
