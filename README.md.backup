@@ -2,11 +2,13 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://pythonhealthdatascience.github.io/jackson-network-jupyterlite/)
 
-This repo uses a JupyterLite template from [Jupyterlite Demo](https://github.com/jupyterlite/demo). It deploys a Jackson Queuing Network as a static site to GitHub Pages, adapted from a [fork from Tom Monks jackson-network repository](https://github.com/TomMonks/jackson-network)
+This repo uses a JupyterLite template from [Jupyterlite Demo](https://github.com/jupyterlite/demo). It deploys a Jackson Queuing Network as a static site to GitHub Pages, adapted from a [Tom Monks jackson-network repository](https://github.com/TomMonks/jackson-network)
 
 ## ✨ Try it in your browser ✨
 
 ➡️ **https://pythonhealthdatascience.github.io/jackson-network-jupyterlite/**
+
+Use the existing datafiles in the data folder 
 
 You can upload or drag in a new data file and update the filepath to run the queuing network with new parameters. 
 
